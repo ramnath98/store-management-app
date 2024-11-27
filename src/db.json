@@ -1,0 +1,18 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "sname": "Vishal",
+      "marks": "97",
+      "cname": "COEP",
+      "uname": "Beed"
+    },
+    {
+      "id": "3",
+      "sname": "Pranav",
+      "marks": "80",
+      "cname": "Engineerin College",
+      "uname": "pune"
+    }
+  ]
+}
