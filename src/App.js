@@ -2,7 +2,7 @@
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';  // Import Routes
+import { BrowserRouter, Routes, Route } from 'react-router-dom';  
 import Header from './template/Header';
 import Addproduct from './product/Addproduct';
 import Viewproduct from './product/Viewproduct';

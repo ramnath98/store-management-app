@@ -126,6 +126,7 @@ function Viewproduct() {
                                 onChange={handleInputChange}
                             />
                         </div>
+                        
                         <button
                             type="button"
                             className="btn btn-success me-2"
@@ -153,6 +154,7 @@ function Viewproduct() {
                         <th>Marks</th>
                         <th>CName</th>
                         <th>UName</th>
+                        <th>Image</th>
                         <th>Actions</th>
                     </tr>
                 </thead>
@@ -164,6 +166,8 @@ function Viewproduct() {
                             <td>{product.marks}</td>
                             <td>{product.cname}</td>
                             <td>{product.uname}</td>
+                            <td><img src={product.proImage} height="50px" ></img></td>
+                            
                             <td>
                                 <button
                                     className="btn btn-outline-danger me-4"

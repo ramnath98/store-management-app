@@ -5,14 +5,16 @@
       "sname": "Vishal",
       "marks": "97",
       "cname": "COEP",
-      "uname": "Beed"
+      "uname": "Beed",
+      "proImage":"../assets/lap.jpg"
     },
     {
       "id": "3",
       "sname": "Pranav",
       "marks": "80",
       "cname": "Engineerin College",
-      "uname": "pune"
+      "uname": "pune",
+      "proImage":"../assets/mo.jpg"
     }
   ]
 }
